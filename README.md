@@ -1,4 +1,4 @@
- GPT-2 Theme-Based Lyrics Generation and Sentence-BERT + BiLSTM
+* GPT-2 Theme-Based Lyrics Generation and Sentence-BERT + BiLSTM
 
 Overview
 This repository contains two projects for theme-based lyrics generation:
@@ -39,7 +39,8 @@ Output:
 
 ---
 
-2. Sentence-BERT + BiLSTM
+* Sentence-BERT + BiLSTM
+  
 Steps to Execute:
 1. Open the notebook `Sentence_BERT_+_BiLSTM.ipynb` in Jupyter Notebook.
 2. Prepare the dataset:
